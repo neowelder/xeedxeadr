@@ -1,0 +1,9 @@
+c:\users\honokoid\documents\visual studio 2012\Projects\xeedxead\xeedxead\bin\Debug\xeedxead.exe.config
+c:\users\honokoid\documents\visual studio 2012\Projects\xeedxead\xeedxead\bin\Debug\xeedxead.exe
+c:\users\honokoid\documents\visual studio 2012\Projects\xeedxead\xeedxead\bin\Debug\xeedxead.pdb
+c:\users\honokoid\documents\visual studio 2012\Projects\xeedxead\xeedxead\obj\Debug\xeedxead.csprojResolveAssemblyReference.cache
+c:\users\honokoid\documents\visual studio 2012\Projects\xeedxead\xeedxead\obj\Debug\xeedxead.Form1.resources
+c:\users\honokoid\documents\visual studio 2012\Projects\xeedxead\xeedxead\obj\Debug\xeedxead.Properties.Resources.resources
+c:\users\honokoid\documents\visual studio 2012\Projects\xeedxead\xeedxead\obj\Debug\xeedxead.csproj.GenerateResource.Cache
+c:\users\honokoid\documents\visual studio 2012\Projects\xeedxead\xeedxead\obj\Debug\xeedxead.exe
+c:\users\honokoid\documents\visual studio 2012\Projects\xeedxead\xeedxead\obj\Debug\xeedxead.pdb
